@@ -46,4 +46,4 @@ A console-based ATM simulation.
 
 ## Author
 
-Laxmi Gupta
+Amit Kumar
